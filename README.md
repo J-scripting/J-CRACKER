@@ -9,7 +9,7 @@ git clone https://github.com/J-scripting/J-CRACKER.git
 
 cd J-CRACKER.sh
 
-> Run : python2 haxor.py
+> Run : python2 J-CRACKER.sh
 
 USERNAME : haxor
 
